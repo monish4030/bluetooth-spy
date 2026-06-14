@@ -26,7 +26,7 @@ It does **not** transmit, jam, or disrupt any device. It is a **spy** in the ori
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/bluetooth-spy.git
+git clone https://github.com/monish4030/bluetooth-spy
 cd bluetooth-spy
 
 # 2. Install dependencies (run as root)
