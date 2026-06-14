@@ -1,0 +1,15 @@
+=== Bluetooth Spy — Quick Start ===
+Made by Monish Paramasivam
+
+1. sudo bash scripts/install_dependencies.sh
+2. pip3 install -r requirements.txt
+3. sudo python3 bluetooth_spy.py
+
+For demo (no adapter needed):
+   python3 bluetooth_spy.py --educational
+   sudo python3 bluetooth_spy.py  → choose option 1 → demo devices load automatically
+
+For GitHub upload:
+   git init && git add . && git commit -m "Bluetooth Spy by Monish Paramasivam"
+   git remote add origin https://github.com/YOUR_USERNAME/bluetooth-spy.git
+   git push -u origin main
